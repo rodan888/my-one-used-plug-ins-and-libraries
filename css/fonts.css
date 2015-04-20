@@ -1,0 +1,11 @@
+/* font-family: "PFEncoreSansPro-Reg"; */
+@font-face {
+	font-family: "PFEncoreSansPro-Reg";
+	src: url("../fonts/PFEncoreSansPro-Reg/PFEncoreSansPro-Reg.eot");
+	src: url("../fonts/PFEncoreSansPro-Reg/PFEncoreSansPro-Reg.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/PFEncoreSansPro-Reg/PFEncoreSansPro-Reg.woff") format("woff"),
+	url("../fonts/PFEncoreSansPro-Reg/PFEncoreSansPro-Reg.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
